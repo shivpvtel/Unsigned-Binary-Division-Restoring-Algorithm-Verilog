@@ -25,7 +25,7 @@ Figure 2 Part of the expected output.
   
   
 
-**My Outputs**
+***My Outputs***
 
 Timing diagram (680 ns):
 
