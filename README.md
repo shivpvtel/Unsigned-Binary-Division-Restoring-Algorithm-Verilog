@@ -25,3 +25,28 @@ Figure 2 Part of the expected output.
   
   
 
+** My Outputs **
+
+Timing diagram (680 ns):
+![Timing diagram (680 ns)](https://user-images.githubusercontent.com/81172033/191548817-5075c918-3ea8-4cc4-bd0e-7b56a342a2a8.png)
+
+Timing diagram zoomed in:
+![Timing Diagram zoomed in](https://user-images.githubusercontent.com/81172033/191548888-60e08953-7fad-4b1a-8572-44d776817d83.png)
+
+I/O planning:
+![I:o planning](https://user-images.githubusercontent.com/81172033/191548948-305df72a-f015-4319-95a8-5da0302dd6ec.png)
+
+Floor planning:
+![Floor Planning](https://user-images.githubusercontent.com/81172033/191549060-23691313-a6cf-45d3-adfb-5b2e780ff50f.png)
+
+Debug Schematic:
+![Debug Schematic](https://user-images.githubusercontent.com/81172033/191549595-c17f5a58-29d8-45c1-9a69-6fd9b49dc6e6.png)
+
+
+
+
+
+
+
+
+
