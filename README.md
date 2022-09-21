@@ -15,12 +15,13 @@ Figure 2 Part of the expected output.
 6. Write a behavioral Verilog code describing Figure 1. Compile and simulate your code to correctly do the division.
 
 7. Write a report that contains the following: 
-  + Your Verilog design code. Use:
-    ++ Device: XC7Z010- -1CLG400C or choose any other FPGA type. You can use Arria II if you are using Quartus II software.
-  + Your Verilog Test Bench design code to do the following division shown in item 5 (0x4c7f228a / 0x6a0e). Add “`timescale 1ns/1ps” as the first line of your test bench file.
-  + The waveforms resulting from the verification of your design with the simulation software, showing all the signals as shown in Figure 2. Show the signals till 680 ns.
-  + The design schematics from the synthesis of your design. Do not use any area constraints. e. Snapshot of the I/O Planning and
-  + Snapshot of the floor planning
+  - Your Verilog design code. Use:
+  - Device: XC7Z010- -1CLG400C or choose any other FPGA type. You can use Arria II if you are using Quartus II software.
+  - Your Verilog Test Bench design code to do the following division shown in item 5 (0x4c7f228a / 0x6a0e). Add “timescale 1ns/1ps” as the first line of your test bench file.
+  - The waveforms resulting from the verification of your design with the simulation software, showing all the signals as shown in Figure 2. Show the signals till 680 ns.
+  - The design schematics from the synthesis of your design. Do not use any area constraints. 
+  - Snapshot of the I/O Planning and
+  - Snapshot of the floor planning
   
   
 
